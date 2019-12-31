@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: fabx/podinfo:stg-hdkrgzax
+    image: fabx/podinfo:stg-xpisbbny
     replicaCount: 2
     hpa:
       enabled: true
