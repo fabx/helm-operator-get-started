@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: fabx/podinfo:dev-vszkpaba
+    image: fabx/podinfo:dev-yvrmntob
     replicaCount: 1
     hpa:
       enabled: false
